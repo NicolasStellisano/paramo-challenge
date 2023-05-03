@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Juan",
+    "Email": "Juan@marmol.com",
+    "Phone": "+5491154762312",
+    "Address": "Peru 2464",
+    "UserType": "Normal",
+    "Money": "1234"
+  },
+  {
+    "Name": "Franco",
+    "Email": "Franco.Perez@gmail.com",
+    "Phone": "+534645213542",
+    "Address": "Alvear y Colombres",
+    "UserType": "Premium",
+    "Money": "112234"
+  },
+  {
+    "Name": "Agustina",
+    "Email": "Agustina@gmail.com",
+    "Phone": "+534645213542",
+    "Address": "Garay y Otra Calle",
+    "UserType": "SuperUser",
+    "Money": "112234"
+  }
+]
+
